@@ -35,7 +35,7 @@ const Resume: React.FC = () => {
           <div className="bg-gray-800 p-6 rounded-lg">
             <h2 className="text-2xl font-bold mb-4">About me</h2>
             <p className="text-lg mb-4 font-bold text-yellow-300">
-            Results-driven savvy Full-Stack Developer with a strong foundation in computer science and a recent graduate of Victoria University.
+            Savvy Full-Stack Developer with a strong foundation in computer science and a recent graduate of Victoria University.
           I am passionate about technology, experienced in troubleshooting hardware and software issues in customer-focused environments.
           Proven expertise in operating systems, networking protocols, and technical support procedures.
           Seeking a dynamic role to apply and enhance my skills in a vibrant and innovative team.
