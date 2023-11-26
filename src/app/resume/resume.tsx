@@ -43,7 +43,7 @@ const Resume: React.FC = () => {
             <p className="text-lg">
               My name is Sunil Paudel, and I am a recent graduate of Victoria University, where I earned a degree in Computer Science.
               I am passionate about technology and software development who has completed some projects like{' '}
-              <Link href="https://laulau.vercel.app" target="_blank" rel="noopener noreferrer" className="underline text-blue-500">
+              <Link href="https://superrchatbot.vercel.app" target="_blank" rel="noopener noreferrer" className="underline text-blue-500">
                 personal assistant chatbot
               </Link>
               , seeking a full-stack developer position to further develop my skills
