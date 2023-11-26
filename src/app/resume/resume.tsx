@@ -36,9 +36,11 @@ const Resume: React.FC = () => {
             <h2 className="text-2xl font-bold mb-4">About me</h2>
             <p className="text-lg mb-4 font-bold text-yellow-300">
             Savvy Full-Stack Developer with a strong foundation in computer science and a recent graduate of Victoria University.
-          I am passionate about technology, experienced in troubleshooting hardware and software issues in customer-focused environments.
-          Proven expertise in operating systems, networking protocols, and technical support procedures.
-          Seeking a dynamic role to apply and enhance my skills in a vibrant and innovative team.
+          I am passionate about technology, I am passionate about technology and software development who has completed some projects like{' '}
+              <Link href="https://superrchatbot.vercel.app" target="_blank" rel="noopener noreferrer" className="underline text-blue-500">
+                personal assistant chatbot
+              </Link>
+              , seeking a full-stack developer position to further develop my skills and contribute to innovative projects with innovative team.
             </p>
           </div>
         </div>
