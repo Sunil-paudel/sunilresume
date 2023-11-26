@@ -40,7 +40,7 @@ const Resume: React.FC = () => {
               <Link href="https://superrchatbot.vercel.app" target="_blank" rel="noopener noreferrer" className="underline text-blue-500">
                 personal assistant chatbot
               </Link>
-              , seeking a full-stack developer position to further develop my skills and contribute to innovative projects with innovative team.
+              , seeking a full-stack developer position to further develop my skills and contribute to innovative projects.
             </p>
           </div>
         </div>
@@ -49,7 +49,7 @@ const Resume: React.FC = () => {
           <div className="bg-gray-800 p-6 rounded-lg">
             <h2 className="text-2xl font-bold mb-4">Skills and Experience</h2>
             <p className="text-lg">
-              Proficient in various programming languages and frameworks, including HTML, CSS, JavaScript, React, NextJS, and Node.js.
+              Proficient in various programming languages and frameworks, including HTML, CSS, JavaScript, typescript, React, NextJS, and Node.js.
               Skilled in identifying and resolving complex technical problems, with experience in deploying applications using Vercel, Netlify, and AWS.
               Committed to staying up-to-date with the latest industry trends and technologies.
             </p>
