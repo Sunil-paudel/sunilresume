@@ -3,7 +3,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 
-const Home: React.FC = () => {
+const Resume: React.FC = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-purple-500 via-blue-500 to-green-500 p-20">
       <header className="mb-4">
@@ -69,4 +69,4 @@ const Home: React.FC = () => {
   );
 };
 
-export default Home;
+export default Resume;
