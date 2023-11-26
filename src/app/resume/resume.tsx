@@ -31,32 +31,25 @@ const Resume: React.FC = () => {
       </header>
 
       <main className="text-white text-center">
-        <p className="text-lg mb-4 font-bold text-yellow-300">
-          Savvy expert experienced in troubleshooting computer hardware and software issues in customer-focused environments.
-          Proven comprehensive knowledge of operating systems, networking protocols, and technical support procedures.
-          Skilled in identifying and resolving complex technical problems.
-        </p>
-
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 gap-8">
           <div className="bg-gray-800 p-6 rounded-lg">
-            <h2 className="text-2xl font-bold mb-4">Welcome to my personal website!</h2>
-            <p className="text-lg">
-              My name is Sunil Paudel, and I am a recent graduate of Victoria University, where I earned a degree in Computer Science.
-              I am passionate about technology and software development who has completed some projects like{' '}
-              <Link href="https://superrchatbot.vercel.app" target="_blank" rel="noopener noreferrer" className="underline text-blue-500">
-                personal assistant chatbot
-              </Link>
-              , seeking a full-stack developer position to further develop my skills
-              and contribute to innovative projects.
+            <h2 className="text-2xl font-bold mb-4">About me</h2>
+            <p className="text-lg mb-4 font-bold text-yellow-300">
+            Results-driven savvy Full-Stack Developer with a strong foundation in computer science and a recent graduate of Victoria University.
+          I am passionate about technology, experienced in troubleshooting hardware and software issues in customer-focused environments.
+          Proven expertise in operating systems, networking protocols, and technical support procedures.
+          Seeking a dynamic role to apply and enhance my skills in a vibrant and innovative team.
             </p>
           </div>
+        </div>
 
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 gap-8">
           <div className="bg-gray-800 p-6 rounded-lg">
             <h2 className="text-2xl font-bold mb-4">Skills and Experience</h2>
             <p className="text-lg">
-              As a full-stack developer, I am proficient in various programming languages and frameworks, including HTML, CSS, JavaScript, React, NextJS, and Node.js along with deployment techniques like Vercel, Netlify, and AWS.
-              I am also experienced in working with databases and cloud platforms. In my free time, I enjoy exploring new technologies and staying
-              up-to-date with the latest trends in the tech industry (like learning from FreeCodeCamp and getting certified for responsive web designing, watching many YouTube videos, attending coding bootcamps, etc).
+              Proficient in various programming languages and frameworks, including HTML, CSS, JavaScript, React, NextJS, and Node.js.
+              Skilled in identifying and resolving complex technical problems, with experience in deploying applications using Vercel, Netlify, and AWS.
+              Committed to staying up-to-date with the latest industry trends and technologies.
             </p>
           </div>
         </div>
